@@ -14,6 +14,7 @@ void Scene::Initialize() {
 	player_->Initialize();
 }
 
+
 void Scene::Update() {
 
 	//AかDキー押されたとき、発生したコマンドを格納
